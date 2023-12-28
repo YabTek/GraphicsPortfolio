@@ -6,8 +6,8 @@ import linkedin from "../assets/linkedin (1).png";
 const Contact = () => {
   return (
     <div>
-      <h1 class="text-center lg:text-left text-3xl font-bold pb-6 text-gray-500">Contact💁</h1>
-      <div class="flex justify-between lg:flex-col">
+      <h1 class="text-left text-3xl ml-16 lg:ml-0 font-bold pb-6 text-gray-500">Contact💁</h1>
+      <div class="ml-16 lg:ml-0 flex-col">
       <div class="flex">
         <img class="h-10" src={phone} alt="" />
         <p class="text-xl font-semibold px-2">+251982462073</p>

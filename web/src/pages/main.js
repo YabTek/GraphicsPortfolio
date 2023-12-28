@@ -14,7 +14,7 @@ const Main = () => {
       <Home />
       <Projects />
       <Certificates />
-      <div id = "infoRow" class="flex flex-col space-y-12 justify-around pt-48 pl-8 mb-[9rem] lg:flex-row ">
+      <div id = "infoRow" class="flex flex-col space-y-12 justify-around pt-36 pl-12 mb-[9rem] lg:flex-row ">
         <Services />
         <Skills />
         <Contact /> 
