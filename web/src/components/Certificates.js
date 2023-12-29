@@ -11,17 +11,17 @@ const Certificates = () => {
       </h1>
       <div className="flex flex-col lg:flex-row justify-between items-left pl-8">
         <img
-          className="h-[20rem] w-[16rem] mx-16 xl:h-[37rem] xl:w-[30rem] xl:mx-0 mb-8 md:mb-0 shadow-2xl shadow-gray-500"
+          className="h-[20rem] w-[22rem]  xl:h-[30rem] xl:w-[30rem]  mb-8 md:mb-0 shadow-2xl shadow-gray-500"
           src={certificate1}
           alt=""
         />
         <img
-          className="h-[20rem] w-[16rem] mx-16  xl:h-[37rem] xl:w-[30rem] xl:mx-0 mb-8 md:mb-0  shadow-2xl shadow-gray-500"
+          className="h-[20rem] w-[22rem]  pt-4 lg:pt-0 xl:h-[30rem] xl:w-[30rem]  mb-8 md:mb-0  shadow-2xl shadow-gray-500"
           src={certificate2}
           alt=""
         />
         <img
-          className="h-[20rem] w-[16rem] mx-16 xl:h-[37rem] xl:w-[30rem] xl:mx-0 shadow-2xl shadow-gray-500"
+          className="h-[20rem] w-[22rem]  pt-4 lg:pt-0 xl:h-[30rem] xl:w-[30rem]  shadow-2xl shadow-gray-500"
           src={certificate3}
           alt=""
         />
